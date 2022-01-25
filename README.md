@@ -7,3 +7,5 @@
 - Create Components [Header, List, Map, PlaceDetails]
 - Import them into App.js
 - Import CssBaseline, Grid into App.js
+
+3: Work on Header Component
