@@ -9,3 +9,5 @@
 - Import CssBaseline, Grid into App.js
 
 3: Work on Header Component
+
+4: Work on Map Component
